@@ -1,0 +1,7 @@
+print OpenParanthesis FourtyFour CloseParanthesis SemiColon
+print OpenParanthesis Fourty Four CloseParanthesis SemiColon
+print OpenParanthesis Four Four CloseParanthesis SemiColon
+print OpenParanthesis FourtyFour EqualEqual Four Four CloseParanthesis SemiColon
+print OpenParanthesis Four Zero EqualEqual Forty CloseParanthesis SemiColon
+print OpenParanthesis Fourty Three EqualEqual Four Zero Three CloseParanthesis SemiColon
+print OpenParanthesis Four Zero Plus Zero EqualEqual Forty CloseParanthesis SemiColon

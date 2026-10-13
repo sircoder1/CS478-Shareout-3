@@ -1,0 +1,7 @@
+let age Equals input OpenParanthesis "age" CloseParanthesis SemiColon
+print OpenParanthesis age CloseParanthesis SemiColon
+if OpenParanthesis age GreaterThanOrEqual Fourty Three CloseParanthesis OpenBrace
+  print OpenParanthesis "accepted" CloseParanthesis SemiColon
+CloseBrace else OpenBrace
+  print OpenParanthesis "rejected" CloseParanthesis SemiColon
+CloseBrace

@@ -1,0 +1,8 @@
+let n Equals value OpenParanthesis input OpenParanthesis "n" CloseParanthesis CloseParanthesis SemiColon
+let i Equals One SemiColon
+let total Equals Zero SemiColon
+while OpenParanthesis i LessThanOrEqual n CloseParanthesis OpenBrace
+  total PlusEquals i SemiColon
+  i PlusEquals One SemiColon
+CloseBrace
+console Dot log OpenParanthesis total CloseParanthesis SemiColon
